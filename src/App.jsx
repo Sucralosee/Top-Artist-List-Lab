@@ -1,4 +1,4 @@
-import './App.css'
+import '/src/app.css'
 import { artists } from './best-selling-music-artists';
 import ArtistDetails from './components/ArtistDetails';
 

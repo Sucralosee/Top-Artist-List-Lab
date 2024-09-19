@@ -1,4 +1,4 @@
-import '../App.css'
+import '/src/app.css'
 
 export default function ArtistDetails(props) {
 
